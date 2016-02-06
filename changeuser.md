@@ -11,13 +11,11 @@ All furhter actions I done on Raspbian Jessie (Nov. 2015 image).
 In order to achive goals above described goals, I did:
 
 1. Create new user
-
 ```
 sudo adduser <username>
 ```
 
 2. Check what groups `pi` account have and then assign those groups to the new account 
-
 ```
 sudo usermod -a -G `groups pi | sed -e 's/\s\+/,/g' | sed -r 's/^.{5}//'` <username>
 ```
