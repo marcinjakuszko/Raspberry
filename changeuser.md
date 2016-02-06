@@ -1,7 +1,8 @@
-#Fed up with pi@raspberry? How to change default user on Raspbian.
+#Fed up with pi@raspberry? 
+This article is about how to change a default user on Raspbian.
 
 ## Concept and requirements
-While logging on to my Raspberry through ssh I noticed that I am little bit bored with the stock system account `pi@raspberry`. I decided to personalized my Raspbian with my own user account to use customized login name. Nevertheless I wanted to preserve:
+While logging on to my Raspberry through ssh, I noticed, that I am little bit bored with the stock system account `pi@raspberry`. I decided to personalize my Raspbian with my own user account to use customized login name. Nevertheless I wanted to preserve:
 - auto-login function to graphical desktop and terminal without need to provide password (for my new account)
 - groups and user permissions
 - stock, out of the box, Rapsbian login, with diferent login name
