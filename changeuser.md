@@ -7,7 +7,8 @@ While logging on to my Raspberry through ssh, I noticed, that I am little bit bo
 - Auto-login function to graphical desktop and terminal without need to provide password (for my new account)
 - Groups and user permissions
 - Stock, out of the box, Rapsbian login, with diferent login name
-All furhter actions I done on Raspbian Jessie (Nov. 2015 image).
+
+All furhter actions I performed on Raspbian Jessie (Nov. 2015 image).
 
 ## Performed steps 
 In order to achive goals above described goals, I did:
